@@ -1,0 +1,2 @@
+swww init
+swww img
